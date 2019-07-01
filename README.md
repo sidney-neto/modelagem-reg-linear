@@ -7,15 +7,15 @@
 - Manipular e visualizar dados (MVD).
 
 ## Técnicas  
-- Transformação Logarítmica, método amplamente usado para tratar dados distorcidos.
+- Transformação logarítmica, método amplamente usado para tratar dados distorcidos.
 
-## Exemplos
-- Distribuição normal sem log
+## Exemplos em Distplot
+- Distribuição Assimétrica à direita, sem log.
 <p>
   <img src="https://i.ibb.co/VSjdg9m/Screenshot-from-2019-06-30-10-17-13.png" width="550">
 </p>
 
-- Distribuição normal com log
+- Distribuição Simétrica, com log.
 <p>
   <img src="https://i.ibb.co/VJ3Cw7X/Screenshot-from-2019-06-30-10-17-23.png" width="550">
 </p>

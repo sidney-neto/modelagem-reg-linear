@@ -1,4 +1,6 @@
 # Introdução à Técnicas de Modelagem de Dados
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sidney-neto/modelagem-reg-linear/blob/master/tecnicas-de-modelagem.ipynb)
+
 <p align="center">
   <img src="https://i.ibb.co/rMfqpQ1/Data-Modeling.png" width="400">
 </p>
